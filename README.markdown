@@ -1,5 +1,3 @@
-This is a sample README.md file you can use to update your project. New project repos will use this template when they are created.
-
 # Declaritive Lookup Rollup Summaries (DLRS) Sprint Repo
 See main DLRS Development repo here (https://github.com/SFDO-Community/declarative-lookup-rollup-summaries)
 
