@@ -18,7 +18,7 @@ https://trailhead.salesforce.com/trailblazer-community/groups/0F9300000009O5pCAE
 Full Name            | Team Role     | Github Username                                    | Working Group? 
 ------------         | ------------- | -------------                                      |-------------   
 Caroline Renard   | Group Leader  | [cpra12](https://github.com/cpra12)                | Cookbook
-Melanie Tolomeo   | Group Leader  |                                                    | UX/UI Survey
+Melanie Tolomeo   | Group Leader  | [melanietolomeo](https://github.com/melanietolomeo)                                                     | UX/UI Survey
 
 
 
