@@ -7,6 +7,9 @@ The DLRS Documentation and UX Working Groups want to make DLRS easier for admins
 * 1 - Compiling a **Cookbook of DLRS Recipes**, especially with examples for nonprofit users.
 * 2 - Collect feedback via a **UX Survey** from users about their experience with configuring the tool, and suggestions for improvements.
 
+## Two-Day Schedule
+https://docs.google.com/document/d/1kKHtam-JLrxzS4VCz3D97cW5OOmbMG3bopEMvYO2Gqs/edit?usp=sharing
+
 ## Project Vertical
 Nonprofit, Education, and Other (DRLS is available to users in multiple Salesforce Clouds)
 
