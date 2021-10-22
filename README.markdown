@@ -7,9 +7,6 @@ The DLRS Documentation and UX Working Groups want to make DLRS easier for admins
 * 1 - Compiling a **Cookbook of DLRS Recipes**, especially with examples for nonprofit users.
 * 2 - Collect feedback via a **UX Survey** from users about their experience with configuring the tool, and suggestions for improvements.
 
-## Two-Day Schedule
-https://docs.google.com/document/d/1kKHtam-JLrxzS4VCz3D97cW5OOmbMG3bopEMvYO2Gqs/edit?usp=sharing
-
 ## Project Vertical
 Nonprofit, Education, and Other (DRLS is available to users in multiple Salesforce Clouds)
 
@@ -22,57 +19,42 @@ Full Name            | Team Role     | Github Username                          
 ------------         | ------------- | -------------                                      |-------------   
 Caroline Renard   | Group Leader  | [cpra12](https://github.com/cpra12)                | Cookbook
 Melanie Tolomeo   | Group Leader  | [melanietolomeo](https://github.com/melanietolomeo)                                                     | UX/UI Survey
-
-
+Cheryl Curry | Group Member | - | Cookbook
+Jared Henning | Group Member & Recipe Collector | [Jared-Oliver-Salesforce](https://github.com/Jared-Oliver-Salesforce) | Cookbook
+Mike Kikta | Group Member | [mkikta-traction](https://github.com/mkikta-traction) | Cookbook
+Michael Kolodner | Group Member | [mkolodner](https://github.com/mkolodner) | Cookbook
+Jodi Nemser-Abrahams | Group Member & Scribe | [JodiNA](https://github.com/JodiNA) | UX/UI Survey
+Kathy Olney | Group Member | [KathOlney](https://github.com/KathOlney) | Cookbook
+Katy Porray | Group Member | [kporray](https://github.com/kporray) | UX/UI Survey
+Rachel Sinex | Group Member & Form Editor | [rachel-pedallucid-com](https://github.com/rachel-pedallucid-com) | Cookbook
+Amanda Styles | Group Member & Recipe Collector | [demanda](https://github.com/demanda) | Cookbook
+Hua Ping Tan | Group Member | [huapingtan](https://github.com/huapingtan) | Cookbook
+TJ Warfield | Group Member & Scribe | [tj-warfield](https://github.com/tj-warfield) | Cookbook
 
 ## Sprint (AMER: October 20 & 21, 2021)
 
 ### Project Working Documents
-* To contribute to the **Cookbook, please start with this form: https://forms.gle/p75Ydend94aLT7wL8**
-* To contribute to the **UX Survey, please start with this form: https://forms.gle/EyrdJzaUVT4LuY589**
-
-*Please note that these forms are generally available, and you are invited to share them outside of the Sprint groups, with colleagues, customers and anyone else who would like to contribute.*
+* To contribute to the **Cookbook, please complete this form by 11/4: https://forms.gle/p75Ydend94aLT7wL8**
+* To contribute to the **UX/UI Survey, please complete this form by 10/31: https://forms.gle/EyrdJzaUVT4LuY589**
+* *Please note that these forms are generally available, and you are invited to share them outside of the Sprint groups, with colleagues, customers and anyone else who would like to contribute.*
+* **TEAM DOCS**
+* Two-Day Schedule and notes from discussions: https://docs.google.com/document/d/1kKHtam-JLrxzS4VCz3D97cW5OOmbMG3bopEMvYO2Gqs/edit?usp=sharing
+* Recipe Responses (Google Sheet): https://docs.google.com/spreadsheets/d/1uYa-BbYGwjJIqjcnSvicXmy3KATCdzlLCFomIHi-f10/edit?resourcekey#gid=652819783
+* Recipe Working Doc: https://docs.google.com/document/d/1htWO9IqnaWgZPN9-Knlyd1UoWnrGBLYRAcvo3XU7gVI/edit#
 
 ### Project Team Accomplishments
-Please replace with the tasks your team was able to accomplish during the Sprint event.
--
--
--
--
--
--
+During the two days of the Sprint event, our group:
+* Complied a list of everyone's go-to resources for installation and configuration.
+* Reviewed the current "Manage Lookup Rollup Summaries" page, and made a list of suggestions and questions.
+* Took the notes from the UX discussion (*thanks Jodi*), did some sorting and prioritization, and refined the survey.
+* Created a template for writing recipes in Google Docs (for now).
+* Reviewed and updated the recipe submission form (*thanks Rachel for editing*).
+* Collected recipes (*thanks Jared for interviewing Sheri Gurock for her OBF rollups*).
+* Planned a recipes working session on **November 4th - noon Pacific / 3PM Eastern** - ping Caroline for the Zoom link.
 
+### Future Contributions 
+* UX/UI Survey form will be open until 10/31. Team are working on converting the notes from the discussions into a set of tasks for the dev teams.
+* Cookbook group are meeting again on 11/4, to review the submissions, and write up a first set of recipes for publication on the DLRS Wiki.
 
 _________________________________________________
 
-
-
-# Past Project Teams
-We recommend creating a Wiki page for past Sprint Event volunteers (per Sprint), and that Sprints goals, accomplishments, etc. Here's a good example: https://github.com/SFDO-Community-Sprints/DataGenerationToolkit. If you prefer to add this information to the readme file, here's a good example of formatting you can use: https://github.com/SFDO-Community-Sprints/Admin-Skills-and-Nonprofit-Salesforce-Teams
-
-## Sprint (DATE):
-
-### Project Team Accomplishments
-Please replace with the tasks you team was able to accomplish during the Sprint event.
-
-Full Name            | Team Role     | Github Username                                    | Working Group? 
-------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
-
-## Sprint (DATE):
-
-### Project Team Accomplishments
-Please replace with the tasks you team was able to accomplish during the Sprint event.
-
-Full Name            | Team Role     | Github Username                                    | Working Group? 
-------------         | ------------- | -------------                                      |-------------   
-Enter persons name   | Group Leader  | [fakeusername](https://github.com/fakeusername)    | 
-Enter persons name   | Contributor   |                                                    | Enter working group name
-
-
-# Project Resources and Documentation
-Documentation can be found in the repository [wiki] (URL for wiki where docs are stored)
-
-# Future Contributions (AKA what were you unable to finish at the Sprint)
-Replace with the goals your team would like to continue working on next time.
